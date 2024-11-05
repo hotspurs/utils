@@ -1,3 +1,3 @@
-module github.com/hotspurs/utils
+module github.com/dhnikolas/utils/v2
 
 go 1.22.7
